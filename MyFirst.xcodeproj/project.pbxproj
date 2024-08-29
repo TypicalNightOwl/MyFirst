@@ -14,6 +14,19 @@
 		CF17C9EE2C7BBFE20085B3BC /* MyFirstTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF17C9ED2C7BBFE20085B3BC /* MyFirstTests.swift */; };
 		CF17C9F82C7BBFE20085B3BC /* MyFirstUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF17C9F72C7BBFE20085B3BC /* MyFirstUITests.swift */; };
 		CF17C9FA2C7BBFE20085B3BC /* MyFirstUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF17C9F92C7BBFE20085B3BC /* MyFirstUITestsLaunchTests.swift */; };
+		CF17CA072C7BC4990085B3BC /* WelcomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF17CA062C7BC4990085B3BC /* WelcomeView.swift */; };
+		CF17CA092C7BC4A80085B3BC /* ExerciseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF17CA082C7BC4A80085B3BC /* ExerciseView.swift */; };
+		CF17CA0C2C7BE7250085B3BC /* HeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF17CA0B2C7BE7250085B3BC /* HeaderView.swift */; };
+		CF17CA132C7BF54C0085B3BC /* step-up.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CF17CA0F2C7BF54A0085B3BC /* step-up.mp4 */; };
+		CF17CA142C7BF54C0085B3BC /* squat.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CF17CA102C7BF54B0085B3BC /* squat.mp4 */; };
+		CF17CA152C7BF54C0085B3BC /* burpee.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CF17CA112C7BF54B0085B3BC /* burpee.mp4 */; };
+		CF17CA162C7BF54C0085B3BC /* sun-salute.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = CF17CA122C7BF54C0085B3BC /* sun-salute.mp4 */; };
+		CF17CA182C7BF7F30085B3BC /* RatingViews.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF17CA172C7BF7F30085B3BC /* RatingViews.swift */; };
+		CF17CA1A2C7BF9C20085B3BC /* HistoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF17CA192C7BF9C20085B3BC /* HistoryView.swift */; };
+		CF17CA212C7C09370085B3BC /* HistoryStoreDevData.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF17CA202C7C09370085B3BC /* HistoryStoreDevData.swift */; };
+		CF17CA252C7C0A630085B3BC /* HistoryStore.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF17CA242C7C0A630085B3BC /* HistoryStore.swift */; };
+		CF17CA272C7C10540085B3BC /* Exercise.swift in Sources */ = {isa = PBXBuildFile; fileRef = CF17CA262C7C10540085B3BC /* Exercise.swift */; };
+		CFA110192C7EDDB9003AEFCB /* SuccessView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CFA110182C7EDDB9003AEFCB /* SuccessView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -44,6 +57,19 @@
 		CF17C9F32C7BBFE20085B3BC /* MyFirstUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = MyFirstUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		CF17C9F72C7BBFE20085B3BC /* MyFirstUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstUITests.swift; sourceTree = "<group>"; };
 		CF17C9F92C7BBFE20085B3BC /* MyFirstUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyFirstUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		CF17CA062C7BC4990085B3BC /* WelcomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeView.swift; sourceTree = "<group>"; };
+		CF17CA082C7BC4A80085B3BC /* ExerciseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExerciseView.swift; sourceTree = "<group>"; };
+		CF17CA0B2C7BE7250085B3BC /* HeaderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeaderView.swift; sourceTree = "<group>"; };
+		CF17CA0F2C7BF54A0085B3BC /* step-up.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "step-up.mp4"; sourceTree = "<group>"; };
+		CF17CA102C7BF54B0085B3BC /* squat.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = squat.mp4; sourceTree = "<group>"; };
+		CF17CA112C7BF54B0085B3BC /* burpee.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = burpee.mp4; sourceTree = "<group>"; };
+		CF17CA122C7BF54C0085B3BC /* sun-salute.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = "sun-salute.mp4"; sourceTree = "<group>"; };
+		CF17CA172C7BF7F30085B3BC /* RatingViews.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RatingViews.swift; sourceTree = "<group>"; };
+		CF17CA192C7BF9C20085B3BC /* HistoryView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryView.swift; sourceTree = "<group>"; };
+		CF17CA202C7C09370085B3BC /* HistoryStoreDevData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryStoreDevData.swift; sourceTree = "<group>"; };
+		CF17CA242C7C0A630085B3BC /* HistoryStore.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistoryStore.swift; sourceTree = "<group>"; };
+		CF17CA262C7C10540085B3BC /* Exercise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exercise.swift; sourceTree = "<group>"; };
+		CFA110182C7EDDB9003AEFCB /* SuccessView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SuccessView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -95,8 +121,9 @@
 			isa = PBXGroup;
 			children = (
 				CF17C9DC2C7BBFE00085B3BC /* MyFirstApp.swift */,
-				CF17C9DE2C7BBFE00085B3BC /* ContentView.swift */,
+				CF17CA0A2C7BC4D70085B3BC /* Views */,
 				CF17C9E02C7BBFE20085B3BC /* Assets.xcassets */,
+				CF17CA1F2C7C03090085B3BC /* Model */,
 				CF17C9E22C7BBFE20085B3BC /* Preview Content */,
 			);
 			path = MyFirst;
@@ -106,6 +133,7 @@
 			isa = PBXGroup;
 			children = (
 				CF17C9E32C7BBFE20085B3BC /* Preview Assets.xcassets */,
+				CF17CA202C7C09370085B3BC /* HistoryStoreDevData.swift */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -123,8 +151,35 @@
 			children = (
 				CF17C9F72C7BBFE20085B3BC /* MyFirstUITests.swift */,
 				CF17C9F92C7BBFE20085B3BC /* MyFirstUITestsLaunchTests.swift */,
+				CF17CA112C7BF54B0085B3BC /* burpee.mp4 */,
+				CF17CA102C7BF54B0085B3BC /* squat.mp4 */,
+				CF17CA0F2C7BF54A0085B3BC /* step-up.mp4 */,
+				CF17CA122C7BF54C0085B3BC /* sun-salute.mp4 */,
 			);
 			path = MyFirstUITests;
+			sourceTree = "<group>";
+		};
+		CF17CA0A2C7BC4D70085B3BC /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				CF17C9DE2C7BBFE00085B3BC /* ContentView.swift */,
+				CF17CA062C7BC4990085B3BC /* WelcomeView.swift */,
+				CF17CA082C7BC4A80085B3BC /* ExerciseView.swift */,
+				CFA110182C7EDDB9003AEFCB /* SuccessView.swift */,
+				CF17CA192C7BF9C20085B3BC /* HistoryView.swift */,
+				CF17CA172C7BF7F30085B3BC /* RatingViews.swift */,
+				CF17CA0B2C7BE7250085B3BC /* HeaderView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		CF17CA1F2C7C03090085B3BC /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				CF17CA242C7C0A630085B3BC /* HistoryStore.swift */,
+				CF17CA262C7C10540085B3BC /* Exercise.swift */,
+			);
+			path = Model;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -232,7 +287,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				CF17C9E42C7BBFE20085B3BC /* Preview Assets.xcassets in Resources */,
+				CF17CA152C7BF54C0085B3BC /* burpee.mp4 in Resources */,
 				CF17C9E12C7BBFE20085B3BC /* Assets.xcassets in Resources */,
+				CF17CA142C7BF54C0085B3BC /* squat.mp4 in Resources */,
+				CF17CA162C7BF54C0085B3BC /* sun-salute.mp4 in Resources */,
+				CF17CA132C7BF54C0085B3BC /* step-up.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -257,7 +316,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CF17CA0C2C7BE7250085B3BC /* HeaderView.swift in Sources */,
+				CF17CA1A2C7BF9C20085B3BC /* HistoryView.swift in Sources */,
+				CF17CA252C7C0A630085B3BC /* HistoryStore.swift in Sources */,
+				CF17CA092C7BC4A80085B3BC /* ExerciseView.swift in Sources */,
+				CF17CA182C7BF7F30085B3BC /* RatingViews.swift in Sources */,
+				CF17CA272C7C10540085B3BC /* Exercise.swift in Sources */,
+				CF17CA212C7C09370085B3BC /* HistoryStoreDevData.swift in Sources */,
+				CFA110192C7EDDB9003AEFCB /* SuccessView.swift in Sources */,
 				CF17C9DF2C7BBFE00085B3BC /* ContentView.swift in Sources */,
+				CF17CA072C7BC4990085B3BC /* WelcomeView.swift in Sources */,
 				CF17C9DD2C7BBFE00085B3BC /* MyFirstApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
